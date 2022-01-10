@@ -1,0 +1,50 @@
+.ihd .site-logo{
+    margin-top: 8px !important;
+}
+
+.enb-sticky.hd-glb.shrink .ihd .site-logo{
+    margin-top: 12px !important;
+}
+
+.inav .menu > li.current-menu-item > a,
+.inav .menu > li.current-menu-item.sfHover > a, 
+.inav .menu > li.current-menu-parent.sfHover > a, 
+.inav .menu > li.current-page-parent > a, 
+.inav .menu > li.current-page-item > a, 
+.inav .menu > li.current-page-ancestor > a, 
+.inav .menu > li.current-menu-ancestor > a, 
+.inav .menu li.current_page_item > a {
+    color: #CF3CB7 !important;
+}
+
+.inav li a:hover{
+    color: #CF3CB7 !important;
+}
+
+.sec.sec-blue{
+    background: #CF3CB7 !important;
+}
+
+a.btn-trans, a.btn-outline{
+    border-color: #CF3CB7 !important;
+}
+
+a.btn-trans:hover, a.btn-outline:hover{
+    background: #CF3CB7 !important;
+}
+
+.ifot-wg h3, .ifot-wg h4{
+    color: #CF3CB7 !important;
+}
+
+.sec.sec-blue4{
+    background-color: #f177dd !important;
+}
+
+.sec.sec-blue2{
+    background-color: #f597e5 !important;
+}
+
+.over-sec.ov-bk, .over-sec.ov-black{
+    background-color: #ee75da !important;
+}
